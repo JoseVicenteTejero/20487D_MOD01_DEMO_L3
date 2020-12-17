@@ -1,8 +1,9 @@
-# 20487D_MOD01_DEMO_L3
+# 20487D_MOD02_DEMO_L3
 
 JOSE VICENTE TEJERO - 16/12/2020
 
 RESUMEN
+ES EL MOD02_L3_QUERYING DATA
 Lesson 3: Querying Data
 Using Language-Integrated Query (LINQ) to Entities
 
